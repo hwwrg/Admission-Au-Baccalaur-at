@@ -11,7 +11,7 @@ Application en Python pour culculer le résultat au Baccalauréat en entrant les
 
 ### Fonctions
 * -Saisie 
-	Note de Mathématique
+** 	Note de Mathématique
 	note de Litérature
 	note de Philosophie	
 * -Enregister
